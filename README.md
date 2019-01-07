@@ -1,5 +1,5 @@
 # PermissionApp
-Interview code for https://shivo
+Interview code for https://shivom.io/
 
 - There are 5 public variables/functions in the contract.
 - First init() the contract which makes you to caller of the contract.
